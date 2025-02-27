@@ -1,0 +1,1 @@
+# magazine-nuxt3-test
