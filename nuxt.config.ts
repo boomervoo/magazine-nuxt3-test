@@ -7,7 +7,7 @@ export default defineNuxtConfig({
     head: {
       title: 'Nuxt Dojo',
       meta:[
-        {name: 'description', content: 'Nuxt Dojo about Nuxt 3'},
+        { name: 'description', content: 'Nuxt Dojo about Nuxt 3'},
       ]
     }
   }
